@@ -10,7 +10,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>THE OFFICE NOOK - Chair Repair Services</title>
+  <title>Work Comfort - STUDIO - Chair Repair Services</title>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; font-family: Arial, sans-serif; }
     body { line-height: 1.6; color: #333333; background-color: #F2F2F2; }
@@ -39,7 +39,7 @@
 <body>
 
   <header>
-    <h1>THE OFFICE NOOK</h1>
+    <h1>Work Comfort-Studio</h1>
     <h2>Expert Chair Repair Services</h2>
     <p>Restoring comfort & mobility to your office and home chairs</p>
     <p>Is your office chair making noise, sinking, wobbling or losing its comfort? We can fix it!</p>
@@ -107,8 +107,8 @@
   <div class="container" id="contact">
     <div class="contact-box">
       <h2>Contact Us</h2>
-      <p>Email: support@officenook.com</p>
-      <p>Phone: +91 98765 43210</p>
+      <p>Email: support@workcomfort-studio.com</p>
+      <p>Phone: +91 99005 14756</p>
     </div>
   </div>
 
