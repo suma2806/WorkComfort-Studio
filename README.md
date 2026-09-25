@@ -1,17 +1,6 @@
 # WorkComfort-Studio
-# 1. Clone your GitHub repo to your computer
-git clone https://github.com/username/workcomfort-studio.github.io
-
-# 2. Go inside the repo folder
-cd workcomfort-studio.github.io
-
-# 3. Copy your website files (index.html, images, CSS) into this folder
-
-# 4. Stage the files
-git add .
-
-# 5. Commit the changes
-git commit -m "Initial website upload"
-
-# 6. Push to GitHub
-git push origin main
+<img width="1408" height="768" alt="WhatsApp Image 2026-09-25 at 11 19 33 AM" src="https://github.com/user-attachments/assets/899be5a8-b1c8-444e-9bc2-e78ef87f405c" />
+<img width="1408" height="768" alt="WhatsApp Image 2026-09-25 at 11 19 33 AM" src="https://github.com/user-attachments/assets/bdbf92e8-b399-4ef0-a87e-e28f9fca521d" />
+<img width="1408" height="768" alt="WhatsApp Image 2026-09-25 at 11 19 56 AM" src="https://github.com/user-attachments/assets/a84a804d-4c66-45b4-a7a5-fdeb2b8a87d7" />
+<img width="1408" height="768" alt="WhatsApp Image 2026-09-25 at 11 19 33 AM" src="https://github.com/user-attachments/assets/dc5e764c-edeb-4c7e-86bb-69962e142326" />
+<img width="1408" height="768" alt="WhatsApp Image 2026-09-25 at 11 19 56 AM" src="https://github.com/user-attachments/assets/a3454620-fd03-4c6a-a2d0-62ff9b4a35fc" />
