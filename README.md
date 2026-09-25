@@ -4,3 +4,117 @@
 <img width="1408" height="768" alt="WhatsApp Image 2026-09-25 at 11 19 56 AM" src="https://github.com/user-attachments/assets/a84a804d-4c66-45b4-a7a5-fdeb2b8a87d7" />
 <img width="1408" height="768" alt="WhatsApp Image 2026-09-25 at 11 19 33 AM" src="https://github.com/user-attachments/assets/dc5e764c-edeb-4c7e-86bb-69962e142326" />
 <img width="1408" height="768" alt="WhatsApp Image 2026-09-25 at 11 19 56 AM" src="https://github.com/user-attachments/assets/a3454620-fd03-4c6a-a2d0-62ff9b4a35fc" />
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THE OFFICE NOOK - Chair Repair Services</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: Arial, sans-serif; }
+    body { line-height: 1.6; color: #333333; background-color: #F2F2F2; }
+
+    header { background: #4D4D4D; color: #FFFFFF; padding: 1.5rem; text-align: center; }
+    nav { display: flex; justify-content: center; gap: 20px; background: #666666; padding: 10px; }
+    nav a { color: #FFFFFF; text-decoration: none; font-weight: bold; transition: color 0.3s; }
+    nav a:hover { color: #FFD700; }
+
+    .hero { background: #E0E0E0; color: #333333; text-align: center; padding: 3rem 1rem; }
+    .hero h1 { margin-bottom: 10px; }
+    .hero button { background: #666666; color: #FFFFFF; border: none; padding: 12px 24px; font-size: 1rem; border-radius: 5px; cursor: pointer; margin-top: 15px; transition: background 0.3s; }
+    .hero button:hover { background: #4D4D4D; }
+
+    .container { max-width: 1000px; margin: 2rem auto; padding: 0 1rem; }
+    .services-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; margin-top: 1rem; }
+    .card { background: #FFFFFF; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.2); text-align: center; color: #333333; transition: transform 0.3s; }
+    .card:hover { transform: translateY(-5px); }
+    .card img { max-width: 100%; border-radius: 6px; margin-bottom: 10px; }
+
+    .contact-box { background: #666666; padding: 2rem; border-radius: 8px; text-align: center; margin-top: 2rem; color: #FFFFFF; }
+
+    footer { text-align: center; padding: 1rem; background: #4D4D4D; color: #FFFFFF; margin-top: 2rem; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>THE OFFICE NOOK</h1>
+    <h2>Expert Chair Repair Services</h2>
+    <p>Restoring comfort & mobility to your office and home chairs</p>
+    <p>Is your office chair making noise, sinking, wobbling or losing its comfort? We can fix it!</p>
+  </header>
+
+  <nav>
+    <a href="#services">Services</a>
+    <a href="#about">About</a>
+    <a href="#corporate">Corporate Orders</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section class="hero">
+    <h1>Bring Your Chair Back to Life</h1>
+    <p>Professional repair solutions for office and home seating</p>
+    <button>Book a Service</button>
+  </section>
+
+  <div class="container" id="services">
+    <h2>Our Services</h2>
+    <div class="services-grid">
+      <div class="card">
+        <img src="pZTrESjPawGM6q3uyyTRf.jpeg" alt="Variety of Office Chairs">
+        <h3>Hydraulic Repair</h3>
+        <p>Fix sinking chairs with durable hydraulic replacements.</p>
+      </div>
+      <div class="card">
+        <img src="7dGdSz9XodTAt6bkK5Drx.jpeg" alt="Before and After Chair Restoration">
+        <h3>Wheel Replacement</h3>
+        <p>Restore smooth mobility with high-quality chair wheels.</p>
+      </div>
+      <div class="card">
+        <img src="pqbZteNpa6j3FwNduMQzU.jpeg" alt="Detailed Chair Restoration Process">
+        <h3>Noise Reduction</h3>
+        <p>Eliminate squeaks and rattles for a quiet workspace.</p>
+      </div>
+      <div class="card">
+        <img src="ifJXBbiPw4hjzeEkSC4YT.jpeg" alt="Executive Office Chair">
+        <h3>Executive Chair Care</h3>
+        <p>Maintain premium leather chairs with expert refurbishment.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container" id="about">
+    <h2>About Us</h2>
+    <p>At THE OFFICE NOOK, we believe that a well-maintained chair is the foundation of productivity and comfort. With years of expertise in repairing hydraulic systems, wheels, and structural components, we have built a reputation for reliability and precision.</p>
+    <p>Our team of skilled technicians uses high-quality parts and proven repair methods to extend the life of your office and home chairs. We serve individual customers as well as large organizations, ensuring that every workspace remains ergonomic and efficient.</p>
+    <p>We are committed to sustainability — repairing and restoring instead of replacing — helping businesses save costs while reducing waste.</p>
+  </div>
+
+  <div class="container" id="corporate">
+    <h2>Corporate Order Intake</h2>
+    <p>We specialize in handling bulk chair repair and maintenance for corporate offices, co-working spaces, and institutions. Our corporate service includes:</p>
+    <ul>
+      <li>On-site inspection and repair scheduling</li>
+      <li>Bulk hydraulic and wheel replacements</li>
+      <li>Noise reduction and comfort restoration for large chair inventories</li>
+      <li>Flexible service contracts tailored to organizational needs</li>
+      <li>Priority support and dedicated account management</li>
+    </ul>
+    <p>For corporate inquiries, please email <strong>corporate@officenook.com</strong> or call <strong>+91 98765 43211</strong>.</p>
+  </div>
+
+  <div class="container" id="contact">
+    <div class="contact-box">
+      <h2>Contact Us</h2>
+      <p>Email: support@officenook.com</p>
+      <p>Phone: +91 98765 43210</p>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2026 THE OFFICE NOOK. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
